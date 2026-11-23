@@ -45,6 +45,7 @@ gpro-battery-tray/
    cargo --version
    ```
    Une ligne du type `cargo 1.xx.x` doit s'afficher.
+   /!\ Nécessite peut-être un redémarrage du PC. /!\
 
 ### Étape 2 : récupérer les sources
 
