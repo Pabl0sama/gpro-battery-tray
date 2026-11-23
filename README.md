@@ -50,7 +50,7 @@ gpro-battery-tray/
 
 **Avec Git :**
 ```powershell
-git clone https://github.com/TON_PSEUDO/gpro-battery-tray.git
+git clone https://github.com/Pabl0sama/gpro-battery-tray.git
 cd gpro-battery-tray
 ```
 
