@@ -1,4 +1,4 @@
-# gpro-battery-tray
+# wireless-mous-battery-tray
 
 Petit utilitaire Windows qui affiche le **niveau de batterie d'une souris Logitech G Pro Wireless** directement dans la zone de notification (à côté de l'horloge).
 
