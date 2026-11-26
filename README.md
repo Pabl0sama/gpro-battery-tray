@@ -14,8 +14,8 @@ Petit utilitaire Windows qui affiche le **niveau de batterie d'une souris Logite
 | | |
 |---|---|
 | Système | Windows 10 / 11 |
-| Testé avec | Logitech G Pro Wireless + récepteur Lightspeed (USB `046D:C539`) |
-| Autres souris Logitech | Probablement compatibles si elles utilisent HID++ 2.0 avec les fonctionnalités batterie `0x1000`, `0x1001` ou `0x1004`, mais non testées |
+| Testé avec | Logitech G Pro Wireless + récepteur Lightspeed (USB `046D:C539`) fonctionnel | Attack Shark X3 + récepteur USB non-fonctionnel |
+| Autres souris | Probablement compatibles si elles utilisent HID++ 2.0 avec les fonctionnalités batterie `0x1000`, `0x1001` ou `0x1004`, mais non testées |
 
 ## Ce dépôt contient les sources
 
