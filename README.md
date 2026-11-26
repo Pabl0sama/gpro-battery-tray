@@ -145,8 +145,5 @@ Double-clique sur `gpro-battery-tray.exe`. L'icône apparaît dans la zone de no
 
 ## Avertissement
 
-Projet indépendant, non affilié à Logitech. Le protocole HID++ est documenté de manière non officielle, notamment par le projet [Solaar](https://github.com/pwr-Solaar/Solaar). Utilisation à tes propres risques.
+Projet indépendant, affilié à aucune marque. Le protocole HID++ est documenté de manière non officielle, notamment par le projet [Solaar](https://github.com/pwr-Solaar/Solaar). Utilisation à tes propres risques.
 
-## Licence
-
-À choisir (par exemple MIT). Ajoute un fichier `LICENSE` à la racine du dépôt.
